@@ -50,3 +50,23 @@ nav ul a li:hover{
 nav ul a:active{
     background-color: rgba(255, 235, 205, 0.54);
 }
+    .navLink{
+        text-decoration: none;
+    }
+    nav ul a li{
+        text-decoration: none;
+        font-size: 25px;
+        display: inline-block;
+        margin: 0 80px;
+        padding: 26px 50px;
+        border: 1px;
+        color: #000;
+    }
+    nav ul a li:hover{
+        background-color: blanchedalmond;
+    }
+    nav ul a:active{
+        background-color: rgba(255, 235, 205, 0.54);
+    }
+    /*end of nav*/
+    

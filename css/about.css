@@ -44,6 +44,9 @@ nav ul a li{
     border: 1px;
     color: #000;
 }
+.navLink{
+    text-decoration: none;
+}
 nav ul a li:hover{
     background-color: blanchedalmond;
 }
