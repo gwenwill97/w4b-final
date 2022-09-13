@@ -80,8 +80,12 @@ body{
     background-color: white;
     padding: 20px;
     margin-top: 20px;
-    border: 1px #000;
-}
+   }
+   .card2 {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+   }
 .leftcolumn {   
     float: left;
     width: 75%;
@@ -99,3 +103,9 @@ body{
   ul a:hover{
     color: blanchedalmond;
   }
+  .abt1{
+    width: 100%;
+  }
+ .abt2{
+    width: 100%;
+ }
