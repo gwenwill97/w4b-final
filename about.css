@@ -83,3 +83,8 @@ footer {
     justify-content: center;
     padding-top: 1rem;
     }
+    @media screen and (max-width: 1007px) and (min-width: 657px) {
+        nav ul a li{
+            margin: 0 0;
+        }
+    }

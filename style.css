@@ -112,6 +112,7 @@ body{
  /* end of main */
  /* beginning of footer */
  footer {
+    clear: both;
     padding: 40px 0;
     width: 100vw;
     height: auto;
@@ -139,4 +140,9 @@ body{
     color: antiquewhite;
     justify-content: center;
     padding-top: 1rem;
+    }
+    @media screen and (max-width: 1007px) and (min-width: 657px) {
+        nav ul a li{
+            margin: 0 0;
+        }
     }
