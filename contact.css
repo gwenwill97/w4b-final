@@ -69,4 +69,34 @@ nav ul a:active{
         background-color: rgba(255, 235, 205, 0.54);
     }
     /*end of nav*/
+    /* start footer */
+    footer {
+        padding: 40px 0;
+        width: 100vw;
+        height: auto;
+        background-color:rgba(39, 111, 34, 0.866);
+        }
+        
+        .social-icons{
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        }
+        
+        .social-icons i{
+        color: antiquewhite;
+        transition: all 0.3s ease 0s;
+        font-size: 2rem;
+        }
+        
+        .social-icons i:hover{
+        color: blanchedalmond;
+        }
+        
+        footer h6{
+        display: flex;
+        color: antiquewhite;
+        justify-content: center;
+        padding-top: 1rem;
+        }
     
