@@ -12,6 +12,7 @@ header{
     position: sticky;
     top: 0;
     background-color: #000;
+    z-index: 9999;
 }
 header h1{
     color: antiquewhite;
@@ -65,13 +66,18 @@ nav ul a li{
 nav ul a li:hover{
     background-color: blanchedalmond;
 }
-nav ul a:active{background-color: rgba(255, 235, 205, 0.54);}/*end of nav*/
-/* start of main*/
+nav ul a:active{background-color: rgba(255, 235, 205, 0.54);}
+/*end nav*/
+/* beginning of body*/
 main{
     background-color: antiquewhite;
 }
+
+p{
+    text-indent: 15px;
+}
 .hero-copy{
-    width: 33%;
+    width: 35%;
     text-align: center;
     padding: 1%;
     display: inline-block;
@@ -110,7 +116,8 @@ input[type=submit]:hover {
     background-color: rgba(250, 235, 215, 0.618);
     padding: 20px;
 }
- /* start footer */
+/*end body*/
+/* beginning of footer*/
  footer {
     padding: 40px 0;
     width: 100vw;

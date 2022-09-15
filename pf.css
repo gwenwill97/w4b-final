@@ -54,6 +54,8 @@ nav ul a li:hover{
 nav ul a:active{
     background-color: rgba(255, 235, 205, 0.54);
 }
+/*end nav*/
+/* beginning of body*/
 body{
     background-color: rgba(255, 235, 205, 0.391);
 }
@@ -80,6 +82,51 @@ main{
     border-radius: 15px;
     box-shadow:5px 5px rgba(136, 136, 136, 0.158) ;
 }
+.card1{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.card2 {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.card3{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.card4{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.card5{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.leftcolumn {   
+    float: left;
+    width: 40%;
+}
+.abt1{
+    width: 75%;
+}
+.abt2{
+    width: 75%;
+}
+.abt3{
+    width: 75%;
+}
+.abt4{
+    width: 75%;
+}
+.abt5{
+    width: 75%;
+}
+/*end body*/
 /*beginning of footer*/
 footer {
     padding: 40px 0;
