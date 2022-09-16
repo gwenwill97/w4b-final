@@ -63,7 +63,7 @@ main{
     width: 100%;
     height: 650px;
     background-color: antiquewhite;
-    background-image: url('/img/chris-lee-70l1tDAI6rM-unsplash.jpg');
+    background-image: url('./img/chris-lee-70l1tDAI6rM-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
